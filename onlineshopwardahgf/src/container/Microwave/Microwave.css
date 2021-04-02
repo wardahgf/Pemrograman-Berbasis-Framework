@@ -1,0 +1,53 @@
+.tgh {
+    width:1297px;
+    margin:0 auto;
+    margin-bottom:10px;
+}
+
+.microwave {
+    width: 620px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    margin-left:10px;
+    display: inline-block;
+}
+
+.gambar-microwave {
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    float:left;
+}
+
+.gambar-microwave img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.konten-microwave {
+    float:left;
+    width:100%;
+}
+
+.konten-microwave div.judul-microwave {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-microwave .isi-microwave {
+    font-size: 16px;
+    margin-right:20px;
+    width:100%;
+}
+
+.btn {
+    color:white;
+    border:none;
+    background:hsl(345, 89%, 66%);
+    width:90px;
+}

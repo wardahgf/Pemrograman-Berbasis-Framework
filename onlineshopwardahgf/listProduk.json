@@ -1,0 +1,74 @@
+{
+    "microwave": [
+      {
+        "id": 1,
+        "nama": "KIRIN Oven Listrik 19 Liter - KBO-190LW (Low Watt) LSE0032",
+        "harga": 549000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/5/12/5949618/5949618_563c95fc-2904-48a4-a075-52679d833a49.jpg",
+        "stok": 50
+      },
+      {
+        "id": 2,
+        "nama": "Kirin Oven Elektrik Kbo 200Rab / Kbo 200 Rab - 20 Liter - Bubble Wrap",
+        "harga": 751000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-3188038/kirin_kirin-kbo-200rab-oven-with-lamp_full03.jpg",
+        "stok": 24
+      },
+      {
+        "id": 3,
+        "nama": "Blibli Kirin KBO700C Oven Listrik ",
+        "harga": 2148000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//96/MTA-7114497/kirin_kirin_kbo700c_oven_listrik_-70_liter-_1100_w-_full06_jqbmnsxt.jpg",
+        "stok": 5
+      },
+      {
+        "id": 4,
+        "nama": "oven listrik kirin kbo 90m",
+        "harga": 320000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/kirin_kirin-kbo-90m-oven-listrik---abu-abu--9-l-_full02.jpg",
+        "stok": 5
+      },
+      {
+        "id": 5,
+        "nama": "OVEN LA BELLE SIGNORA",
+        "harga": 1380000,
+        "gambar": "https://kaliskukis.com/wp-content/uploads/2018/02/oven-la-belle.jpg",
+        "stock" : 22
+      },
+      {
+        "id": 6,
+        "nama": "Hot Sale!! Oxone Ox-858Br Oven Hitam 4In1",
+        "harga": 714000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/4/16/99059474/99059474_ad04fa56-af4a-4d5e-9529-233c82dda863_670_670.jpg",
+        "stock" : 9
+      },
+      {
+        "id": 7,
+        "nama": "Cosmos Oven Toaster CO-9919R",
+        "harga": 1380000,
+        "gambar": "https://media.pricebook.co.id/images/product/M/50662_M_1.webp",
+        "stock" : 10
+      },
+      {
+        "id": 8,
+        "nama": "Oxone Ox-899rc Giant Oven (52 Liter)",
+        "harga": 1485000,
+        "gambar": "https://www.dapurnesia.com/wp-content/uploads/2019/08/oxone-professional-giant-oven-1.jpg",
+        "stock" : 7
+      },
+      {
+        "id": 9,
+        "nama": "OVEN COSMOS CO-9926 RCG",
+        "harga": 691300,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/microwaveovens/Cosmos_CO_9926_RCG/Cosmos_CO_9926_RCG_L_1.jpg",
+        "stock" : 5
+      },
+      {
+        "id": 10,
+        "nama": "Oven galaxy signora plus hadiah langsung",
+        "harga": 4080000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//91/MTA-11881252/signora_signora_oven_galaxy_oven_listrik_oven_galaxy_signora_full00.jpg",
+        "stock" : 3
+      }
+    ]
+}

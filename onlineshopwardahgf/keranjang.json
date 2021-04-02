@@ -1,0 +1,36 @@
+{
+  "keranjang": [
+    {
+      "id": 2,
+      "nama": "Paling Di Nanti Kirin Oven Elektrik Kbo 200Rab / Kbo 200 Rab - 20 Liter - Bubble Wrap",
+      "harga": 751000,
+      "stok": 24,
+      "qty": 4
+    },
+    {
+      "id": 6,
+      "nama": "Hot Sale!! Oxone Ox-858Br Oven Hitam 4In1",
+      "harga": 714000,
+      "stock": 9,
+      "qty": 3
+    },
+    {
+      "id": 9,
+      "nama": "OVEN COSMOS CO-9926 RCG",
+      "harga": 691300,
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": 1,
+      "nama": "KIRIN Oven Listrik 19 Liter - KBO-190LW (Low Watt) LSE0032",
+      "harga": 549000,
+      "stok": 50,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
